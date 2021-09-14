@@ -14,5 +14,5 @@ Step 1. Add the dependency
 Step 2. Add the dependency
 
 	dependencies {
-	        implementation 'com.github.mahfuz4223:LocationHelper:Tag'
+	        implementation 'com.github.mahfuz4223:LocationHelper:1.0'
 	}
